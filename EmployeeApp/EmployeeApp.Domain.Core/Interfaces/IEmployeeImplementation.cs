@@ -14,6 +14,6 @@ namespace EmployeeApp.Domain.Core.Interfaces
         EmployeeModel GetByEmployeeCode(int employeeCode);
         EmployeeModel GetByEmployeeName(string name);
         List<EmployeeModel> GetAllEmployeesByDate(DateTime startDate);
-        List<EmployeeModel> GetAllEmployeese();
+        List<EmployeeModel> GetAllEmployees();
     }
 }

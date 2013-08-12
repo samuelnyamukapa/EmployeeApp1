@@ -48,7 +48,7 @@ namespace EmployeeApp.Domain.Core
             throw new NotImplementedException();
         }
 
-        public List<EmployeeModel> GetAllEmployeese()
+        public List<EmployeeModel> GetAllEmployees()
         {
             throw new NotImplementedException();
         }
